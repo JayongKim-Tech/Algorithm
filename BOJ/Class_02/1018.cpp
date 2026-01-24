@@ -34,7 +34,7 @@
                 {
                     for(int y = j; y < j+8; y++)
                     {
-                        if((x+y) % 2 == 0 && arr[x][y] != 'W') 
+                        if((x+y) % 2 == 0 && arr[x][y] != 'W')
                         {
                             w_cnt++;
                         }
@@ -53,5 +53,5 @@
 
         cout << res_cnt ;
 
-        
+
     }
