@@ -40,8 +40,6 @@ int main()
 				res[i]++;
 			}
 			else if(arr[i].weight > arr[j].weight && arr[i].height >  arr[j].height) res[j]++;
-
-
 	}
 
 
