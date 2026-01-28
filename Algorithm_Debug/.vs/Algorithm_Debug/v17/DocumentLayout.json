@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\Algorithm_Debug\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E933CAF8-1D7D-454E-9047-28992C7C4ECB}|Algorithm_Debug.vcxproj|C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\14940.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E933CAF8-1D7D-454E-9047-28992C7C4ECB}|Algorithm_Debug.vcxproj|C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "14940.cpp",
-              "DocumentMoniker": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\14940.cpp",
-              "RelativeDocumentMoniker": "..\\BOJ\\Class_03\\14940.cpp",
-              "ToolTip": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\14940.cpp",
-              "RelativeToolTip": "..\\BOJ\\Class_03\\14940.cpp",
-              "ViewState": "AgIAADsAAAAAAAAAAAAkwEoAAAAEAAAAAAAAAA==",
+              "Title": "1260.cpp",
+              "DocumentMoniker": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1260.cpp",
+              "RelativeDocumentMoniker": "..\\BOJ\\Class_03\\1260.cpp",
+              "ToolTip": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1260.cpp",
+              "RelativeToolTip": "..\\BOJ\\Class_03\\1260.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-26T01:03:11.002Z",
+              "WhenOpened": "2026-01-28T01:04:00.258Z",
               "EditorCaption": ""
             }
           ]
