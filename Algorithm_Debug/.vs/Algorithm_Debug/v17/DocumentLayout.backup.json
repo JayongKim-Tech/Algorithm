@@ -3,7 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\Algorithm_Debug\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E933CAF8-1D7D-454E-9047-28992C7C4ECB}|Algorithm_Debug.vcxproj|C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E933CAF8-1D7D-454E-9047-28992C7C4ECB}|Algorithm_Debug.vcxproj|C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\Algorithm_Debug\\2606.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E933CAF8-1D7D-454E-9047-28992C7C4ECB}|Algorithm_Debug.vcxproj|solutionrelative:2606.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,16 +28,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "1764.cpp",
-              "DocumentMoniker": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1764.cpp",
-              "RelativeDocumentMoniker": "..\\BOJ\\Class_03\\1764.cpp",
-              "ToolTip": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\BOJ\\Class_03\\1764.cpp",
-              "RelativeToolTip": "..\\BOJ\\Class_03\\1764.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-27T21:48:49.579Z",
+              "DocumentIndex": 1,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\deque",
+              "ViewState": "AgIAAEIEAAAAAAAAAAAawFYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-13T09:05:38.742Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2606.cpp",
+              "DocumentMoniker": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\Algorithm_Debug\\2606.cpp",
+              "RelativeDocumentMoniker": "2606.cpp",
+              "ToolTip": "C:\\Users\\1wkdy\\OneDrive\\Desktop\\study\\Algorithm\\Algorithm_Debug\\2606.cpp",
+              "RelativeToolTip": "2606.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-13T08:39:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHYHAAAAAAAAAADwv4kHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T00:59:40.257Z"
             }
           ]
         }
